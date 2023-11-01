@@ -143,7 +143,7 @@ footer {
     font-size: 0.8rem;
 }
 
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
     header {
         text-align: left;
     }
@@ -165,4 +165,4 @@ footer {
     .hero h2 {
         font-size: 2rem;
     }
- */
+}
